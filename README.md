@@ -1,2 +1,2 @@
-# deep-learning-nanodegree
-Deep Learning Nanodegree projects from Udacity.
+# [Deep Learning Nanodegree](https://classroom.udacity.com/nanodegrees/nd101/syllabus/core-curriculum)
+
